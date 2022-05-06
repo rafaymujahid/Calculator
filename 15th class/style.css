@@ -1,0 +1,35 @@
+.main{
+    border: 15px solid darkred;
+    width: 200px;
+    margin: 0 auto;
+}
+.result{
+    width: 97%;
+    background-color: lightgrey;
+    color: darkblue;
+    height: 20px;
+}
+.clearBtn {
+    width: 100%;
+    margin-top: 10px;
+    background-color: lightcyan;
+    color: darkblue;
+}
+.btn {
+    background-color: darkcyan;
+    width: 48%;
+    margin: 1px;
+    height: 25px;
+}
+.halfBtn{
+    background-color: lightblue;
+    width: 97px;
+    margin-top: 5px;
+}
+h1 {
+    text-align: center;
+    background-color: aqua;
+    color: darkblue;
+   font-style: italic;
+text-decoration: underline;
+}
